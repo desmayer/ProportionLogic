@@ -1,0 +1,13 @@
+C:\Users\desmond.mayer\source\repos\ProportionLogic\ProportionLogic\bin\Debug\netcoreapp3.1\ProportionLogic.exe
+C:\Users\desmond.mayer\source\repos\ProportionLogic\ProportionLogic\bin\Debug\netcoreapp3.1\ProportionLogic.deps.json
+C:\Users\desmond.mayer\source\repos\ProportionLogic\ProportionLogic\bin\Debug\netcoreapp3.1\ProportionLogic.runtimeconfig.json
+C:\Users\desmond.mayer\source\repos\ProportionLogic\ProportionLogic\bin\Debug\netcoreapp3.1\ProportionLogic.runtimeconfig.dev.json
+C:\Users\desmond.mayer\source\repos\ProportionLogic\ProportionLogic\bin\Debug\netcoreapp3.1\ProportionLogic.dll
+C:\Users\desmond.mayer\source\repos\ProportionLogic\ProportionLogic\bin\Debug\netcoreapp3.1\ProportionLogic.pdb
+C:\Users\desmond.mayer\source\repos\ProportionLogic\ProportionLogic\obj\Debug\netcoreapp3.1\ProportionLogic.csprojAssemblyReference.cache
+C:\Users\desmond.mayer\source\repos\ProportionLogic\ProportionLogic\obj\Debug\netcoreapp3.1\ProportionLogic.AssemblyInfoInputs.cache
+C:\Users\desmond.mayer\source\repos\ProportionLogic\ProportionLogic\obj\Debug\netcoreapp3.1\ProportionLogic.AssemblyInfo.cs
+C:\Users\desmond.mayer\source\repos\ProportionLogic\ProportionLogic\obj\Debug\netcoreapp3.1\ProportionLogic.csproj.CoreCompileInputs.cache
+C:\Users\desmond.mayer\source\repos\ProportionLogic\ProportionLogic\obj\Debug\netcoreapp3.1\ProportionLogic.dll
+C:\Users\desmond.mayer\source\repos\ProportionLogic\ProportionLogic\obj\Debug\netcoreapp3.1\ProportionLogic.pdb
+C:\Users\desmond.mayer\source\repos\ProportionLogic\ProportionLogic\obj\Debug\netcoreapp3.1\ProportionLogic.genruntimeconfig.cache
